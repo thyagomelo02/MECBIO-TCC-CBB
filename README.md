@@ -7,9 +7,7 @@
 
 Este é uma das primeiras avaliações feitas com a utilização do PCA e dos algoritmos SVM e XGBoost.
 Este código, possui duas avaliações exaustivas para cada uma das técnicas.
-A primeira avaliação, consiste na análise de componentes para as técnicas, com esta análise é possível identificar os componentes que, possuem as melhores assertividades.
-
-
+A primeira avaliação, consiste na análise de componentes para as técnicas, com esta análise é possível identificar os componentes que, possuem as melhores assertividades. A segunda avaliação, é a de teste/treino, aplica-se o K-fold variando de 0.1 até 1.0, para os conjuntos de componentes.
 
 
 ## Script: PCA_SVM_TENSORFLOW_PSO_BD1_V2
