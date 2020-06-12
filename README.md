@@ -16,7 +16,7 @@ Código em que o modelo estatístico foi aplicado.
 Utilizou-se a base de dados Churn Telecom Datasets.
 As técnicas implementadas foram, SVM, TensorFlow, MLP junto ao algoritmo PSO
 
-##Script: PCA_SVM_XGBOOST_FA_BD1_V6
+## Script: PCA_SVM_XGBOOST_FA_BD1_V6
 
 Aplicação das técnicas de classificação SVM e XGboost junto ao algoritmo bio-inspirado FA na base de dados Churn in Telecom's data set.
 
