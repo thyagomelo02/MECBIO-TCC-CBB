@@ -9,13 +9,6 @@ Este é uma das primeiras avaliações feitas com a utilização do PCA e dos al
 Este código, possui duas avaliações exaustivas para cada uma das técnicas.
 A primeira avaliação, consiste na análise de componentes para as técnicas, com esta análise é possível identificar os componentes que, possuem as melhores assertividades. A segunda avaliação, é a de teste/treino, aplica-se o K-fold variando de 0.1 até 1.0, para os conjuntos de componentes.
 
-
-## Script: PCA_SVM_TENSORFLOW_PSO_BD1_V2
-
-Código em que o modelo estatístico foi aplicado.
-Utilizou-se a base de dados Churn Telecom Datasets.
-As técnicas implementadas foram, SVM, TensorFlow, MLP junto ao algoritmo PSO
-
 ## Script: PCA_SVM_XGBOOST_FA_BD1_V6
 
 Aplicação das técnicas de classificação SVM e XGboost junto ao algoritmo bio-inspirado FA na base de dados Churn in Telecom's data set.
@@ -26,3 +19,9 @@ Também é calculado a Média, tempo e desvio-padrão, bem como o Tempo de execu
 entre a posição dos melhores agentes para o FA.
 
 Fez-se a analise dos parâmetros de aplicação do XGBoost e a técnica foi reaplicada com os paramêtros atualizados.
+
+## Script: PCA_SVM_TENSORFLOW_PSO_BD1_V2
+
+Código em que o modelo estatístico foi aplicado.
+Utilizou-se a base de dados Churn Telecom Datasets.
+As técnicas implementadas foram, SVM, TensorFlow, MLP junto ao algoritmo PSO
