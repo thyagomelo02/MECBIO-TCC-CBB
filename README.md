@@ -25,3 +25,13 @@ Fez-se a analise dos parâmetros de aplicação do XGBoost e a técnica foi reap
 Código em que o modelo estatístico foi aplicado.
 Utilizou-se a base de dados Churn Telecom Datasets.
 As técnicas implementadas foram, SVM, TensorFlow, MLP junto ao algoritmo PSO
+
+
+## Script: PCA_TENSORFLOW_KERAS_V1
+
+Aplicação do TensorFlow 
+
+Neste script o Tensorflow é aplicado e são feitas duas avaliações exaustivas sobre o Tensorflow, a primeira avaliação é baseada no número de componentes, com isso é possível encontrar a assertividade de classificação de cada componente.
+A segunda avaliação, é baseada na divisão de teste/treino da base de dados, com ela obtem-se as assertividades dos componentes com o método k-fold variando de [0.1 a 1.0]
+
+Neste script é utilizado a base de dados Churn in Telecom dataset's
