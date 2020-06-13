@@ -40,5 +40,9 @@ As técnicas implementadas foram, SVM, TensorFlow, MLP junto aos algoritmos bio 
 
 # Aplicação dos experimentos sobre a base de dados: Telco Customer Churn.
 
+
+### Script: PCA_SVM_MLP_TENSORFLOW_PSO_FA_BD3_V2
+
+
 # Aplicação dos experimentos sobre a base de dados: Cardio Train.
 
