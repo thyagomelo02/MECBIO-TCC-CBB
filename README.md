@@ -57,7 +57,7 @@ Aplicação das técnicas de classificação SVM, MLP e Tensorflow junto ao algo
 Neste script é aplicado os algoritmos de classificação SVM, MLP e Tensorflow e o modelo estatístico com seu ponderamento feito pelos algoritmos Bio-inspirados.
 
 
-# Aplicação dos experimentos sobre a base de dados: Cardio Train.
+# Aplicação dos experimentos sobre a base de dados de doenças cardio vasculares.
 
 ### Scrip: PCA_TENSORFLOW_BD4.V2
 
