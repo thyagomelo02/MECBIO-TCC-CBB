@@ -1,4 +1,6 @@
 # TCC2-CBB
+#### Ricardo Morello dos Santos
+#### Thyago Melo dos Santos
 
 Nota: Os comentários acerca dos scripts, estão separados por dataset
 
