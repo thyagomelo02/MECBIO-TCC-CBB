@@ -49,7 +49,9 @@ Este é uma das primeiras avaliações feitas com a utilização do PCA e do Ten
 Aplicação das técnicas de classificação SVM, MLP e Tensorflow junto ao algoritmo bio-inspirado PSO e aplicado na base de dados Telco Customer Churn.
 Neste script é aplicado os algoritmos de classificação SVM, MLP e Tensorflow e o modelo estatístico com seu ponderamento feito pelos algoritmos Bio-inspirados.
 
+### Scrip: PCA_SVM_MLP_BD3_V1
 
+Este é uma das primeiras avaliações feitas com a utilização do PCA, SVM e MLP. Este código, possui duas avaliações exaustivas para as técnicas. A primeira avaliação, consiste na análise de componentes, com esta análise é possível identificar os componentes que, possuem as melhores assertividades. A segunda avaliação, é a de teste/treino, aplica-se o K-fold variando de [0.1 1.0], para os conjuntos de componentes. Toda a aplicação é feita sobre a base de dados Telco Customer Churn.
 
 
 # Aplicação dos experimentos sobre a base de dados: Cardio Train.
