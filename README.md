@@ -62,3 +62,7 @@ Neste script é aplicado os algoritmos de classificação SVM, MLP e Tensorflow 
 ### Scrip: PCA_TENSORFLOW_BD4.V2
 
 Este é uma das primeiras avaliações feitas com a utilização do PCA e do Tensorflow keras. Este código, possui duas avaliações exaustivas para a técnica. A primeira avaliação, consiste na análise de componentes para o tensorflow, com esta análise é possível identificar os componentes que, possuem as melhores assertividades. A segunda avaliação é a de teste/treino, aplica-se o K-fold variando de 0.1 até 1.0, para os conjuntos de componentes. Toda a aplicação é feita sobre a base de dados Cardio
+
+### Scrip: PCA_SVM_MLP_BD4_V1
+
+Este é uma das primeiras avaliações feitas com a utilização do PCA, SVM e MLP. Este código, possui duas avaliações exaustivas para as técnicas. A primeira avaliação, consiste na análise de componentes, com esta análise é possível identificar os componentes que, possuem as melhores assertividades. A segunda avaliação, é a de teste/treino, aplica-se o K-fold variando de [0.1 1.0], para os conjuntos de componentes. Toda a aplicação é feita sobre a base de dados de doenças cardio vasculares.
