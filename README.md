@@ -28,7 +28,7 @@ Aplicação do TensorFlow
 Neste script o Tensorflow é aplicado e são feitas duas avaliações exaustivas sobre o Tensorflow, a primeira avaliação é baseada no número de componentes, com isso é possível encontrar a assertividade de classificação de cada componente.
 A segunda avaliação, é baseada na divisão de teste/treino da base de dados, com ela obtem-se as assertividades dos componentes com o método k-fold variando de [0.1 a 1.0]
 
-### Script: PCA_SVM_TENSORFLOW_PSO_BD1_V2
+### Script: PCA_SVM_TENSORFLOW_MLP_PSO_FA_BD1_V3
 
 Código em que o modelo estatístico foi aplicado.
 Utilizou-se a base de dados Churn Telecom Datasets.
