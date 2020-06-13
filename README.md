@@ -11,12 +11,12 @@ A primeira avaliação, consiste na análise de componentes para as técnicas, c
 
 ## Script: PCA_SVM_XGBOOST_FA_PSO_BD1_V6
 
-Aplicação das técnicas de classificação SVM e XGboost junto ao algoritmo bio-inspirado FA na base de dados Churn in Telecom's data set.
+Aplicação das técnicas de classificação SVM e XGboost junto aos algoritmos bio-inspirado FA e PSO na base de dados Churn in Telecom's data set.
 
 Neste script é aplicado os algoritmos de classificação SVM e XGboost também o modelo estatístico
 com seu ponderamento feito pelos algoritmos Bio-inspirados.
 Também é calculado a Média, tempo e desvio-padrão, bem como o Tempo de execução e a Distância euclidiana 
-entre a posição dos melhores agentes para o FA.
+entre a posição dos melhores agentes para o FA e PSO.
 
 Fez-se a analise dos parâmetros de aplicação do XGBoost e a técnica foi reaplicada com os paramêtros atualizados.
 
