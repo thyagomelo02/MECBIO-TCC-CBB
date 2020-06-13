@@ -34,6 +34,10 @@ Código em que o modelo estatístico foi aplicado.
 Utilizou-se a base de dados Churn Telecom Datasets.
 As técnicas implementadas foram, SVM, TensorFlow, MLP junto ao algoritmo PSO
 
+### Scrip: APLICACAO_MLP_BD1_V3
+
+Este é uma das primeiras avaliações feitas com a utilização do PCA e do algoritmo MLP. Este código, possui duas avaliações exaustivas para a técnica. A primeira avaliação, consiste na análise de componentes para as técnicas, com esta análise é possível identificar os componentes que, possuem as melhores assertividades. A segunda avaliação, é a de teste/treino, aplica-se o K-fold variando de 0.1 até 1.0, para os conjuntos de componentes. Toda a aplicação é feita sobre a base de dados Churn in Telecom dataset's
+
 # Aplicação dos experimentos sobre a base de dados: Telco Customer Churn.
 
 # Aplicação dos experimentos sobre a base de dados: Cardio Train.
