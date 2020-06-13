@@ -1,7 +1,8 @@
 # TCC2-CBB
 
+Nota: Os comentários acerca dos scripts, estão separados por dataset
 
-
+# Aplicação dos experimentos sobre a base de dados: Churn in Telecom dataset's
 
 ## Script: CBB - Resultados experimentais.
 
@@ -34,4 +35,8 @@ Aplicação do TensorFlow
 Neste script o Tensorflow é aplicado e são feitas duas avaliações exaustivas sobre o Tensorflow, a primeira avaliação é baseada no número de componentes, com isso é possível encontrar a assertividade de classificação de cada componente.
 A segunda avaliação, é baseada na divisão de teste/treino da base de dados, com ela obtem-se as assertividades dos componentes com o método k-fold variando de [0.1 a 1.0]
 
-Neste script é utilizado a base de dados Churn in Telecom dataset's
+
+# Aplicação dos experimentos sobre a base de dados: Telco Customer Churn.
+
+# Aplicação dos experimentos sobre a base de dados: Cardio Train.
+
