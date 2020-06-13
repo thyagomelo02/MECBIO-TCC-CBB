@@ -28,15 +28,15 @@ Aplicação do TensorFlow
 Neste script o Tensorflow é aplicado e são feitas duas avaliações exaustivas sobre o Tensorflow, a primeira avaliação é baseada no número de componentes, com isso é possível encontrar a assertividade de classificação de cada componente.
 A segunda avaliação, é baseada na divisão de teste/treino da base de dados, com ela obtem-se as assertividades dos componentes com o método k-fold variando de [0.1 a 1.0]
 
+### Scrip: APLICACAO_MLP_BD1_V3
+
+Este é uma das primeiras avaliações feitas com a utilização do PCA e do algoritmo MLP. Este código, possui duas avaliações exaustivas para a técnica. A primeira avaliação, consiste na análise de componentes para as técnicas, com esta análise é possível identificar os componentes que, possuem as melhores assertividades. A segunda avaliação, é a de teste/treino, aplica-se o K-fold variando de 0.1 até 1.0, para os conjuntos de componentes. Toda a aplicação é feita sobre a base de dados Churn in Telecom dataset's
+
 ### Script: PCA_SVM_TENSORFLOW_MLP_PSO_FA_BD1_V3
 
 Código em que o modelo estatístico foi aplicado.
 Utilizou-se a base de dados Churn Telecom Datasets.
-As técnicas implementadas foram, SVM, TensorFlow, MLP junto ao algoritmo PSO
-
-### Scrip: APLICACAO_MLP_BD1_V3
-
-Este é uma das primeiras avaliações feitas com a utilização do PCA e do algoritmo MLP. Este código, possui duas avaliações exaustivas para a técnica. A primeira avaliação, consiste na análise de componentes para as técnicas, com esta análise é possível identificar os componentes que, possuem as melhores assertividades. A segunda avaliação, é a de teste/treino, aplica-se o K-fold variando de 0.1 até 1.0, para os conjuntos de componentes. Toda a aplicação é feita sobre a base de dados Churn in Telecom dataset's
+As técnicas implementadas foram, SVM, TensorFlow, MLP junto aos algoritmos bio inspirados PSO e FA, também aplicado modelo estatístico
 
 # Aplicação dos experimentos sobre a base de dados: Telco Customer Churn.
 
