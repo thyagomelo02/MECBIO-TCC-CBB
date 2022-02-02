@@ -1,9 +1,9 @@
-# TCC2-CBB
+# Um modelo Bayesiano baseado em algoritmos bio-inspirados para classificação binária.
 
 #### Ricardo Morello dos Santos
 #### Thyago Melo dos Santos
 
-Nota: Os comentários acerca dos scripts estão separados por dataset. Este repositório tem como objetivo documentar o resultados práticos do trabalho proposto que tem como tema: Um modelo Bayesiano baseado em algoritmos bio-inspirados para classificação binária. 
+Nota: Esse repositório tem como objetivo documentar os experimentos realizados do trabalho proposto. Os experimentos estão separados por dataset. 
 
 # Aplicação dos experimentos sobre a base de dados: Churn in Telecom dataset's
 
